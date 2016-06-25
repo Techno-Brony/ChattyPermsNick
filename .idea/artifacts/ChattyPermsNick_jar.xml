@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChattyPermsNick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChattyPermsNick_jar</output-path>
+    <root id="archive" name="BukkitTemplate.jar">
+      <element id="module-output" name="ChattyPermsNick" />
+    </root>
+  </artifact>
+</component>
